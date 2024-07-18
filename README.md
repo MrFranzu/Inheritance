@@ -1,1 +1,1 @@
-# inheritance
+# ACTIVITY: INHERITANCE
